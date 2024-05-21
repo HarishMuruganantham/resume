@@ -1,0 +1,192 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Rubik+Burned&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.page{
+    width: 800px;
+    height: 70em;
+    margin: 80px auto;
+    box-shadow: 5px 5px 5px 5px rgb(67, 184, 193);
+
+   
+}
+
+.left-side{
+    width: 280px;
+    height: 70em;
+    float: left; 
+    background-color:rgb(67, 184, 193);   
+
+}
+.left-side .image{
+   
+    padding:20px;
+    margin: 30px;
+
+   
+   
+}
+.left-side .name{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border-bottom: 2px solid;
+}
+.left-side .details{
+    margin: 10px;
+    padding: 10px;
+}
+.left-side .skills{
+    padding: 10px;
+    margin: 10px;
+}
+.left-side .skills .S h3{
+    text-align: center;
+    padding: 3px;
+    margin: 8px;
+    background-color: whitesmoke;
+    width: 200px;
+    height: 25px;
+
+}
+.left-side .skills .sk .per{
+        margin-left: 220px;
+        margin-top: -20px;
+        padding: 1px;
+         
+}
+.left-side .LG{
+  
+    padding: 10px;
+    margin: 5px;
+}
+.left-side .LG .G h3{
+    text-align: center;
+    padding: 3px;
+    margin-top: -20px;
+    background-color: whitesmoke;
+    width: 200px;
+    height: 25px;
+    margin-left:10PX;
+}
+.left-side .LG .L li{
+    
+    margin-left: 50px;
+    padding: 10px;
+    margin-bottom :5PX; 
+   
+    
+}
+.left-side .HB .H{
+  
+    padding: 10px;
+    margin-left: 30px;
+}
+.left-side .HB .H h3{
+    text-align: center;
+    background-color: whitesmoke;
+    width: 200px;
+    height: 25px;
+    margin-left:-13px;
+}
+.left-side .HB .B i{
+    font-size: 2em;
+    margin-left :-30px;
+    padding: 10px;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.right-side{
+    width: 500px;
+    height: 70em;
+    float: right;
+}
+
+.right-side .OJ .obj h3{
+    text-align: center;
+    padding: 3px;
+    background-color:rgb(67, 184, 193);   
+    width: 400px;
+    height: 25px;
+    color: black;
+    margin: 10px;
+  
+    
+}
+.right-side .OJ .O p{
+    text-align:justify ;
+    padding: 10px;
+  
+}
+
+.right-side .exp .H{
+    text-align: center;
+    padding: 3px;
+    margin: 10px;
+    background-color:rgb(67, 184, 193);  
+    width: 400px;
+    height: 25px;
+    color: black
+}
+.right-side .exp .L li{
+    list-style: disc;
+    padding: 8px;
+    margin: 8px;
+}
+.right-side .edu .e h3{
+    text-align: center;
+    padding: 3px;
+    background-color:rgb(67, 184, 193);      
+    width: 400px;
+    height: 25px;
+    color: black;
+    margin-left: 10px;
+}
+.right-side .edu .Q li{
+    list-style: disc;
+    padding: 8px;
+    margin: 8px;
+}
+.right-side .person h3 {
+    text-align: center;
+    background-color:rgb(67, 184, 193);   
+    height: 25px;
+    width: 400px;
+    color: black; 
+    margin-left: -80px; 
+    
+}
+.right-side .lik .cou h3{
+    text-align: center;
+    padding: 3px;
+    background-color:rgb(67, 184, 193);      
+    width: 400px;
+    height: 25px;
+    color: black;
+    margin-left: 10px;
+}
+.right-side .lik .agen li{
+    list-style: disc;
+    padding: 8px;
+    margin: 8px;
+}
+.right-side .lik1 .cou1 h3{
+    text-align: center;
+    padding: 3px;
+    background-color:rgb(67, 184, 193);      
+    width: 400px;
+    height: 25px;
+    color: black;
+    margin-left: 10px;
+}
+.right-side .lik1 .agen1 li{
+    list-style: disc;
+    padding: 8px;
+    margin: 8px;
+}
